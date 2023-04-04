@@ -1,4 +1,5 @@
-# hezzy
-''' Dart was recently developed by google and is currently 
-    Widely used by big tech companies in web and mobile application
-    Development. '''
+#localh0st
+Python is my favourite although I have some background knowledge on C, C++, C# and Dart(Flutter) and more
+Am also into cybersecurity
+I like CTFs...
+There's great power in the Computer World, lets acquire it...
